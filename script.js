@@ -1,3 +1,3 @@
-document.getElementById("btn").onclick = function(){
-    alert("Welcome to Kazi Store");
+document.getElementById("btn").onclick = function() {
+    alert("Item Added To Cart");
 };
