@@ -25,3 +25,7 @@ nav a{
     margin:30px auto;
     padding:20px;
 }
+product img{
+    width:200px;
+    height:auto;
+}
